@@ -1,5 +1,7 @@
 # Pandas
 
+[Research Computing Services](http://www.it.northwestern.edu/research/) Python: Pandas workshop materials.
+
 ## Downloading Files
 
 ### Recommended: Entire directory
@@ -25,6 +27,8 @@ These exercises were forked from https://github.com/guipsamora/pandas_exercises.
 
 
 ## Resources
+
+See [Resources](https://github.com/nuitrcs/pythonworkshops/blob/master/resources.md) for a listing of general Python resources, tutorials, and reference materials.  Links below relate specifically to material covered in this workshop.
 
 [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas): learn pandas in 11 lessons through notebooks.  
 
