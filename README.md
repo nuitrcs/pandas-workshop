@@ -12,8 +12,6 @@ You can download all of the files by clicking the green button above and choosin
 
 **If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
 
-To download exercise/workshop files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type (or .ipynb if available), and remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
-
 
 ## Exercises
 
