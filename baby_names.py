@@ -9,7 +9,7 @@ dataset_path = 'data\\names'
 begin_year = 1880
 end_year = 2016
 
-def create_dataframe():
+def create_dataframe(begin_year, end_year):
     columns = ('name', 'sex', 'births')
     pieces = []
     for year in range(begin_year, end_year + 1):
@@ -36,7 +36,7 @@ def main():
     name = sys.argv[1]
     sex = sys.argv[2]
 
-    df = create_dataframe()
+    df = create_dataframe(begin_year, end_year)
     df = df.set_index(keys=['year', 'sex'])
     name_series = get_births_series(df, name, sex)
     fig = create_births_figure(name_series, name, sex)
