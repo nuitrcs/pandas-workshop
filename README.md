@@ -14,7 +14,7 @@ You can download all of the files by clicking the green button above and choosin
 
 ### If unable to download
 
-A second version of this course has been optimized to run win your browser using Google's [Colab Environment](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).  That version of this course can be found at: https://github.com/mkitti/pandas-workshop
+A second version of this course has been optimized to run within your browser using Google's [Colab Environment](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).  That version of this course can be found at: https://github.com/mkitti/pandas-workshop
 
 
 ## Exercises
