@@ -12,6 +12,10 @@ You can download all of the files by clicking the green button above and choosin
 
 **If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
 
+### If unable to download
+
+A second version of this course has been optimized to run win your browser using Google's [Colab Environment](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).  That version of this course can be found at: https://github.com/mkitti/pandas-workshop
+
 
 ## Exercises
 
