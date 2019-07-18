@@ -1,6 +1,7 @@
 # Pandas
 
 [Research Computing Services](http://www.it.northwestern.edu/research/) Python: Pandas workshop materials.
+https://github.com/nuitrcs/pandas-workshop
 
 ## Downloading Files
 
